@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.QuizApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <!-- Customize your theme here. -->
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorprimary</item>
+        <item name="colorPrimaryVariant">@color/colorprimary_dark</item>
+        <item name="colorOnPrimary">@color/coloraAccent</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/colorprimary_dark</item>
+        <item name="colorSecondaryVariant">@color/coloraAccent</item>
+        <item name="colorOnSecondary">@color/coloredittextbgcolor</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+
+    </style>
+</resources>

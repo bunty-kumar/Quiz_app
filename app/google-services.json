@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334626954649",
+    "project_id": "quiz-app-e7fae",
+    "storage_bucket": "quiz-app-e7fae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334626954649:android:00116d3144e1dea3974708",
+        "android_client_info": {
+          "package_name": "com.bunty.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334626954649-i6eiv3epnpkds7l2braqeer98jh96hnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDctiIBPruCKlev-F2QgCmK9mtdiZ8MwYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334626954649-i6eiv3epnpkds7l2braqeer98jh96hnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="profile"
+        android:id="@+id/btnProfile"
+        android:icon="@drawable/ic_profile" />
+
+    <item android:title="follow us"
+        android:id="@+id/btnFollowUs"
+        android:icon="@drawable/ic_baseline_follow_the_signs_24"/>
+
+    <item android:title="rate us"
+        android:id="@+id/btnRateUs"
+        android:icon="@drawable/ic_rate_us" />
+
+</menu>

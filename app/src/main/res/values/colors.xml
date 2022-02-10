@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorprimary">#18206f</color>
+    <color name="colorprimary_dark">#11164e</color>
+    <color name="coloraAccent">#e91e63</color>
+    <color name="colorprimary_text">#18206f</color>
+    <color name="colorprimarytextopaque">#18206f</color>
+    <color name="coloredittextbgcolor">#f2f5fa</color>
+    <color name="colorprimarybutton">#FFFFFFFF</color>
+    <color name="coloredittextbordercolor">#e9ebef</color>
+    <color name="colorprimarybuttonbg">#18206f</color>
+
+</resources>
